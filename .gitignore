@@ -1,0 +1,18 @@
+# .NET build artifacts
+bin/
+obj/
+
+# IDE/editor settings
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Advent of Code personal inputs
+src/AoC2018/Inputs/day*.txt
