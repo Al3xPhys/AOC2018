@@ -29,6 +29,10 @@ let main argv =
         Day06.solvePart1 (File.ReadAllText("src/AoC2018/Inputs/day06.txt")) |> ignore
     | [|"6"; "2"|] ->
         Day06.solvePart2 (File.ReadAllText("src/AoC2018/Inputs/day06.txt")) |> ignore
+    | [|"7"; "1"|] ->
+        Day07.solvePart1 (File.ReadAllText("src/AoC2018/Inputs/day07.txt")) |> ignore
+    | [|"7"; "2"|] ->
+        Day07.solvePart2 (File.ReadAllText("src/AoC2018/Inputs/day07.txt")) |> ignore
     | _ ->
         printfn "Please specify a day and part to solve (e.g., '1 2' for Day 1, Part 2)."
     0 // return an integer exit code
