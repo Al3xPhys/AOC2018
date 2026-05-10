@@ -32,8 +32,6 @@ let solvePart1 input =
     let result = part1 parsed
     printfn "Part 1: %d" result
 
-
-
 let solvePart2 input = 
     let parsed = parseInput input
     let result = part2 parsed
