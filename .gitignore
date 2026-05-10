@@ -16,3 +16,5 @@ Thumbs.db
 
 # Advent of Code personal inputs
 src/AoC2018/Inputs/day*.txt
+
+.fake
