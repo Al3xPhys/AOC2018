@@ -39,25 +39,25 @@ dotnet run --project src/AoC2018/AoC2018.fsproj -- 4 2
 | 04  | Done   | Done   |
 | 05  | Done   | Done   |
 | 06  | Done   | Done   |
-| 07  | Done   | Done   |
-| 08  | Done   | Done   |
-| 09  | Done   | Done   |
-| 10  | Done   | Done   |
-| 11  | Done   | Done   |
-| 12  | Done   | Done   |
-| 13  | Done   | Done   |
-| 14  | Done   | Done   |
-| 15  | Done   | Done   |
-| 16  | Done   | Done   |
-| 17  | Done   | Done   |
-| 18  | Done   | Done   |
-| 19  | Done   | Done   |
-| 20  | Done   | Done   |
-| 21  | Done   | Done   |
-| 22  | Done   | Done   |
-| 23  | Done   | Done   |
-| 24  | Done   | Done   |
-| 25  | Done   | Done   |
+| 07  | Todo   | Todo   |
+| 08  | Todo   | Todo   |
+| 09  | Todo   | Todo   |
+| 10  | Todo   | Todo   |
+| 11  | Todo   | Todo   |
+| 12  | Todo   | Todo   |
+| 13  | Todo   | Todo   |
+| 14  | Todo   | Todo   |
+| 15  | Todo   | Todo   |
+| 16  | Todo   | Todo   |
+| 17  | Todo   | Todo   |
+| 18  | Todo   | Todo   |
+| 19  | Todo   | Todo   |
+| 20  | Todo   | Todo   |
+| 21  | Todo   | Todo   |
+| 22  | Todo   | Todo   |
+| 23  | Todo   | Todo   |
+| 24  | Todo   | Todo   |
+| 25  | Todo   | Todo   |
 
 ## Notes
 
