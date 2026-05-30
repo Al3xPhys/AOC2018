@@ -41,7 +41,7 @@ dotnet run --project src/AoC2018/AoC2018.fsproj -- 4 2
 | 06  | Done   | Done   |
 | 07  | Done   | Done   |
 | 08  | Done   | Done   |
-| 09  | Todo   | Todo   |
+| 09  | Done   | Done   |
 | 10  | Todo   | Todo   |
 | 11  | Todo   | Todo   |
 | 12  | Todo   | Todo   |
