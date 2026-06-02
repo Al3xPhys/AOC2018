@@ -52,7 +52,6 @@ type PointGrid() =
         // print the grid
         this.CurrentGrid |> Array.iter (fun row -> printfn "%s" (String.Concat row))
 
-
 let parseInput (input: string) =
     // Placeholder for input parsing logic
 
@@ -105,7 +104,6 @@ let solvePart1 (input: string) : int =
     // Placeholder for Part 1 solution logic
     part1 input
     0
-
 
 let solvePart2 (input: string) : int =
     part1 input

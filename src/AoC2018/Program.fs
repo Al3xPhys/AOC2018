@@ -27,6 +27,8 @@ let main argv =
     | [| "10"; "2" |] -> Day10.solvePart2 (File.ReadAllText("src/AoC2018/Inputs/day10.txt")) |> ignore
     | [| "11"; "1" |] -> Day11.solvePart1 (File.ReadAllText("src/AoC2018/Inputs/day11.txt")) |> ignore
     | [| "11"; "2" |] -> Day11.solvePart2 (File.ReadAllText("src/AoC2018/Inputs/day11.txt")) |> ignore
+    | [| "12"; "1" |] -> Day12.solvePart1 (File.ReadAllText("src/AoC2018/Inputs/day12.txt")) |> ignore
+    | [| "12"; "2" |] -> Day12.solvePart2 (File.ReadAllText("src/AoC2018/Inputs/day12.txt")) |> ignore
     | _ -> printfn "Please specify a day and part to solve (e.g., '1 2' for Day 1, Part 2)."
 
     0 // return an integer exit code
